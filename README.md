@@ -1,4 +1,6 @@
-
+#For login use
+Email- test@gmail.com
+password - 12345678
 
 # Getting Started with Create React App
 
