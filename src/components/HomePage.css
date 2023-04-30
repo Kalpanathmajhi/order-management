@@ -1,0 +1,36 @@
+.search {
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    padding-left: 20px;
+  }
+  
+  .search:focus-visible {
+    outline: none;
+  }
+  
+  .search-desktop::placeholder {
+    color: #666;
+  }
+  
+  .usersTable {
+    padding-top: 20px;
+  }
+  
+  .pagination-bar {
+    margin: 10px 0;
+  }
+  
+  .Chip-root {
+    text-transform: uppercase;
+  }
+  
+  .Chip-label {
+    font-weight: 900;
+  }
+  
+  hr {
+    margin: 20px 0;
+  }
+  
+  

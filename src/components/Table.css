@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    width: 100vw;
+  }
+  
+  .chip {
+    font-size: 1rem;
+    font-weight: 500;
+    background: none;
+  
+  }
+  
+  
