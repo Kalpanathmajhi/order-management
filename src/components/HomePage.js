@@ -74,7 +74,7 @@ const LandingPage = () => {
     fullWidth
     InputProps={{
       className: "search",
-      sx: { borderRadius: "25px" }, // Add this line to make the TextField rounded
+      sx: { borderRadius: "25px" },
       endAdornment: (
         <InputAdornment position="end">
           <Search color="primary" />
